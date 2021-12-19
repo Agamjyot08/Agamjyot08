@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agamjyot08&show_icons=true&theme=radical)
+![Agam Jyot Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agamjyot08&show_icons=true&theme=radical)
 
+![Agam's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agamjyot08&layout=compact&theme=synthwave&exclude_repo=FP_SISOP20_D04&langs_count=8)
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
