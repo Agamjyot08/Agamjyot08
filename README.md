@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/agam-jyot-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agam-jyot-singh/" height="30" width="40" /></a>
 <a href="https://instagram.com/agamjyot08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agamjyot08" height="30" width="40" /></a>
 <p align="center">
-Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
+Whatever I do, I do with perfection, and take work ethics very seriously. I am a constant learner, and love to explore new things!
 <br><br>
- <a href="https://drive.google.com/file/d/17V-1-7TQxc1W4TVZzMhxaemoJJXt6t2E/view?usp=sharing"> -Resume- </a>
+ <a href="https://drive.google.com/file/d/17V-1-7TQxc1W4TVZzMhxaemoJJXt6t2E/view?usp=sharing"> -Here is my Resume- </a>
 <br>
 </p>
 
