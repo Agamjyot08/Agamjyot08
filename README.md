@@ -9,7 +9,7 @@
 
 ![Agam Jyot Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agamjyot08&show_icons=true&theme=radical)
 
-<p align="right"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agamjyot08)](https://github.com/anuraghazra/github-readme-stats) </p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agamjyot08" alt="agamjyot08" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Agamjyot08&label=Profile%20views&color=0e75b6&style=flat" alt="Agamjyot08" /> </p>
 
