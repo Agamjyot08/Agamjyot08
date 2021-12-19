@@ -19,8 +19,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamjyot08&show_icons=true&locale=en" alt="agamjyot08" /></p>
-
 
 <!--
 - 🔭 I’m currently working on ...
