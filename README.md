@@ -6,8 +6,7 @@
 <a href="https://instagram.com/agamjyot08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agamjyot08" height="30" width="40" /></a>
 </p>
 
-
-![Agam Jyot Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agamjyot08&show_icons=true&theme=radical)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Agamjyot08&show_icons=true&theme=radical" alt="agamjyot08" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agamjyot08" alt="agamjyot08" /></p>
 
