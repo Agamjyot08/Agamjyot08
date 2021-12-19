@@ -6,11 +6,9 @@
 <a href="https://instagram.com/agamjyot08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agamjyot08" height="30" width="40" /></a>
 </p>
 
-- 📝 I regularly write articles on [DSA, DBMS & Java](DSA, DBMS & Java)
+- 📝 I am a technical writer at **Scaler**, and I regularly write articles on **DSA, DBMS & Java**!
 
-- 💬 Ask me about **Anything Android!**
-
-- 📫 How to reach me **singhagamjyot@gmail.com**
+- 💬 Ask me about: **Anything Android!**
 
 - ⚡ Fun fact **I am a musician, more specifically a drummer! I love music!**
 
