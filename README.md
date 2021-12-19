@@ -4,6 +4,11 @@
 <a href="https://twitter.com/agam_jyot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agam_jyot" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/agam-jyot-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agam-jyot-singh/" height="30" width="40" /></a>
 <a href="https://instagram.com/agamjyot08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agamjyot08" height="30" width="40" /></a>
+
+Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
+<br><br>
+ <a href="https://drive.google.com/file/d/17V-1-7TQxc1W4TVZzMhxaemoJJXt6t2E/view?usp=sharing"> -Resume- </a>
+<br>
 </p>
 
 - 💎 I am an Android Developer at PhysioAI!
