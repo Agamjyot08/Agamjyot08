@@ -3,7 +3,7 @@
 
 ![Agam Jyot Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agamjyot08&show_icons=true&theme=radical)
 
-![Agam's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agamjyot08&layout=compact&theme=synthwave&exclude_repo=FP_SISOP20_D04&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agamjyot08)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
