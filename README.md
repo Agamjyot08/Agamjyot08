@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agam Jyot</h1>
+<h1 align="center">Hi folks👋, I'm Agam Jyot! Welcome aboard my code station 🚀</h1>
 <h3 align="center">A passionate android developer from India</h3> 👋
 <p align="center">
 <a href="https://twitter.com/agam_jyot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agam_jyot" height="30" width="40" /></a>
@@ -16,6 +16,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamjyot08&show_icons=true&locale=en" alt="agamjyot08" /></p>
 
