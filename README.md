@@ -1,5 +1,5 @@
 <h1 align="center">Hi folks👋, I'm Agam Jyot! Welcome aboard my code station 🚀</h1>
-<h3 align="center">A passionate android developer from India</h3> 👋
+<h3 align="center">I am a passionate android developer from India</h3>
 <p align="center">
 <a href="https://twitter.com/agam_jyot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agam_jyot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/agam-jyot-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agam-jyot-singh/" height="30" width="40" /></a>
@@ -9,7 +9,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Agamjyot08&show_icons=true&theme=radical" alt="agamjyot08" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agamjyot08" alt="agamjyot08" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Agamjyot08&label=Profile%20views&color=0e75b6&style=flat" alt="Agamjyot08" /> </p>
 
 <p align="left"> <a href="https://twitter.com/agam_jyot" target="blank"><img src="https://img.shields.io/twitter/follow/agam_jyot?logo=twitter&style=for-the-badge" alt="agam_jyot" /></a> </p>
