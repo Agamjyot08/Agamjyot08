@@ -7,7 +7,7 @@
 <p align="center">
 Whatever I do, I do with perfection, and take work ethics very seriously. I am a constant learner, and love to explore new things!
 <br><br>
- <a href="https://drive.google.com/file/d/17V-1-7TQxc1W4TVZzMhxaemoJJXt6t2E/view?usp=sharing"> -Here is my Resume- </a>
+ <a href="https://drive.google.com/file/d/1-lLz86E3cDfEVKKmdYJqBsFz9SnICD7g/view?usp=sharing"> -Here is my Resume- </a>
 <br>
 </p>
 
