@@ -1,4 +1,4 @@
-![Agam's GitHub Banner](./assets/GithubBanner.png)
+[![Agam's GitHub Banner](./assets/GithubBanner.png)](https://www.linkedin.com/in/agam-jyot-singh/)
 <h1 align="center">Hi folks👋, I'm Agam Jyot! Welcome aboard my code station 🚀</h1>
 <h3 align="center">I am an Android Developer and writer! </h3>
 <p align="center">
