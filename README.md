@@ -34,6 +34,12 @@ Whatever I do, I do with perfection, and take work ethics very seriously. I am a
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
+<h3>My Blog Post(s)</h3>
+<ul>
+  <li><a href="https://www.scaler.com/topics/advantages-of-dbms/"><b>Advantages of DBMS</b></a><br/><i>Learn why DBMS is advantageous..</i></li>
+   <li><a href="https://www.scaler.com/topics/file-system-vs-dbms/"><b>File system vs DBMS</b></a><br/><i>Learn about the difference between the file systems and DBMS.</i></li>
+</ul>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
