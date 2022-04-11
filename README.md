@@ -8,11 +8,11 @@
 <p align="center">
 Whatever I do, I do with perfection, and take work ethics very seriously. I am a constant learner, and love to explore new things!
 <br><br>
- <a href="https://drive.google.com/file/d/1YzZFIHFgbwpPqmeN2iSiDWJVszVpaIdF/view?usp=sharing"> -Here is my Resume- </a>
+ <a href="https://drive.google.com/file/d/1buJ1yuXBBZYiGD5sivDbnsIuLl143qKR/view"> -Here is my Resume- </a>
 <br>
 </p>
 
-- 💎 I am an Android Developer at PhysioAI!
+- 💎 I am a Software Engineer Intern at Zorro!
 
 - 📝 I am a technical writer at **Scaler**, and I regularly write articles on **DSA, DBMS & Java**!
 
