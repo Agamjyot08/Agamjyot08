@@ -10,7 +10,7 @@ Whatever I do, I do with perfection, and take work ethics very seriously. I am a
 <br><br>
 </p>
 
-- 💎 I am a Software Engineer Intern at Zorro!
+- 💎 I am a Android Engineer Intern at HoodApp!
 
 - 📝 I am a technical writer at **Scaler**, and I regularly write articles on **DSA, DBMS & Java**!
 
