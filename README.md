@@ -1,5 +1,5 @@
 [![Agam's GitHub Banner](./assets/GithubBanner.png)](https://www.linkedin.com/in/agam-jyot-singh/)
-<h1 align="center">Hi folks👋, I'm Agam Jyot! Welcome aboard my code station 🚀</h1>
+<h1 align="center">Hi folks👋, I'm Agamjyot! Welcome aboard my code station 🚀</h1>
 <h3 align="center">I am an Android Developer and writer! </h3>
 <p align="center">
 <a href="https://twitter.com/agam_jyot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agam_jyot" height="30" width="40" /></a>
@@ -10,7 +10,7 @@ Whatever I do, I do with perfection, and take work ethics very seriously. I am a
 <br><br>
 </p>
 
-- 💎 I am an Android Engineer Intern at HoodApp!
+- 💎 I am an SDE Intern at INDmoney!
 
 - 📝 I am a technical writer at **Scaler**, and I regularly write articles on **DSA, DBMS & Java**!
 
